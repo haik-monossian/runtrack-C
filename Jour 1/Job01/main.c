@@ -1,4 +1,3 @@
-#include "my_putchar.c"
 
 int main()
 {
